@@ -1,6 +1,6 @@
 Twitter
 
-twitter.py is the file where you can find the code for scrapping all the tweets by passing hashtags and mentions with date
+With the above script you can find the code for scrapping all the tweets by passing hashtags and mentions with date
 
 ## Installation
 
