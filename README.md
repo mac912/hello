@@ -9,6 +9,10 @@ Create the virtual environment
 ```bash
 python3 -m venv venv
 ```
+To activate the enviroment
+```bash
+source venv/bin/activate
+```
 Install the requirements file
 ```bash
 pip install -r requirements.txt
